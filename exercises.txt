@@ -4,14 +4,12 @@
 
 1. Create a Python virtual environment and install Scapy.
 
-2. Capture a UDP packet and a TCP packet.
+2. Capture a UDP packet and a TCP packet. Sniff it using Wireshark.
 
 3. Create an script that reads a packet capture and dissects it.
 
 4. Craft an HTTP Get request.
 
-5. Craft an incorrect packet, send it and try to sniff it using Wireshark.
+5. Implement your own traceroute this time measuring transit delays of packets.
 
-6. Implement your own traceroute this time measuring transit delays of packets.
-
-7.
+8. Going a bit further: https://0xbharath.github.io/art-of-packet-crafting-with-scapy/exercises/network_hunt/index.html
