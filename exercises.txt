@@ -1,0 +1,17 @@
+#######################################
+#Proposed exercises with Scapy
+#######################################
+
+1. Create a Python virtual environment and install Scapy.
+
+2. Capture a UDP packet and a TCP packet.
+
+3. Create an script that reads a packet capture and dissects it.
+
+4. Craft an HTTP Get request.
+
+5. Craft an incorrect packet, send it and try to sniff it using Wireshark.
+
+6. Implement your own traceroute this time measuring transit delays of packets.
+
+7.
